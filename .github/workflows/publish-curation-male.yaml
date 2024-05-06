@@ -1,4 +1,4 @@
-name: publish-female-map
+name: publish-curation-male
 on:
   workflow_dispatch:
 
@@ -16,6 +16,6 @@ jobs:
           --url $MAP_SERVER \
           --data '{
             "source": "${{ github.server_url }}/${{ github.repository }}",
-            "manifest": "female.manifest.json",
-            "commit": "${{ github.sha }}"
+            "manifest": "male.manifest.json",
+            "commit": "curation"
             }'
