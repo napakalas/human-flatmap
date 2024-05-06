@@ -521,20 +521,11 @@
         ]
     },
     {
-        "id": [
-            "ILX:0738431",
-            []
-        ],
+        "id": "ILX:0738431",
         "name": "thirteenth thoracic spinal cord segment",
         "aliases": [
-            [
-                "ILX:0793357",
-                []
-            ],
-            [
-                "ILX:0793817",
-                []
-            ]
+            "ILX:0793357",
+            "ILX:0793817"
         ]
     },
     {
