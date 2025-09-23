@@ -2081,12 +2081,12 @@
             "name": "Gray communicating ramus of first intercostal nerve"
         },
         "S49_T2-Right": {
-            "models": "ILX:0791105",
-            "name": "Gray communicating ramus of second intercostal nerve"
+            "models": "ILX:0792452",
+            "name": "Gray communicating ramus of right second intercostal nerve"
         },
         "S49_T2-Left": {
-            "models": "ILX:0791105",
-            "name": "Gray communicating ramus of second intercostal nerve"
+            "models": "ILX:0788878",
+            "name": "Gray communicating ramus of left second intercostal nerve"
         },
         "S49_T3-Right": {
             "models": "ILX:0787562",

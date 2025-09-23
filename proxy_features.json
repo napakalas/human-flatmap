@@ -400,5 +400,12 @@
         "proxies": [
             "ILX:0786189"
         ]
+    },
+    {
+        "feature": "ILX:0739303",
+        "name": "Gray communicating ramus of second intercostal nerve",
+        "proxies": [
+            "ILX:0792452"
+        ]
     }
 ]
