@@ -1909,124 +1909,124 @@
             "name": "Right fifth sacral ganglion"
         },
         "S48_T1-Right": {
-            "models": "ILX:0738372",
-            "name": "T1 white ramus"
+            "models": "ILX:0789706",
+            "name": "White communicating ramus of right first intercostal nerve"
         },
         "S48_T1-Left": {
-            "models": "ILX:0738372",
-            "name": "T1 white ramus"
+            "models": "ILX:0790177",
+            "name": "White communicating ramus of left first intercostal nerve"
         },
         "S48_T2-Right": {
-            "models": "ILX:0793208",
-            "name": "White communicating ramus of second thoracic anterior ramus"
+            "models": "ILX:0784453",
+            "name": "White communicating ramus of right second intercostal nerve"
         },
         "S48_T2-Left": {
-            "models": "ILX:0793208",
-            "name": "White communicating ramus of second thoracic anterior ramus"
+            "models": "ILX:0792582",
+            "name": "White communicating ramus of left second intercostal nerve"
         },
         "S48_T3-Right": {
-            "models": "ILX:0793209",
-            "name": "White communicating ramus of third thoracic anterior ramus"
+            "models": "ILX:0786631",
+            "name": "White communicating ramus of third thoracic intercostal nerve"
         },
         "S48_T3-Left": {
-            "models": "ILX:0793209",
-            "name": "White communicating ramus of third thoracic anterior ramus"
+            "models": "ILX:0786149",
+            "name": "White communicating ramus of third thoracic intercostal nerve"
         },
         "S48_T4-Right": {
-            "models": "ILX:0793210",
-            "name": "White communicating ramus of fourth thoracic anterior ramus"
+            "models": "ILX:0784621",
+            "name": "White communicating ramus of right fourth thoracic intercostal nerve"
         },
         "S48_T4-Left": {
-            "models": "ILX:0793210",
-            "name": "White communicating ramus of fourth thoracic anterior ramus"
+            "models": "ILX:0784975",
+            "name": "White communicating ramus of left fourth thoracic intercostal nerve"
         },
         "S48_T5-Right": {
-            "models": "ILX:0793211",
-            "name": "White communicating ramus of fifth thoracic anterior ramus"
+            "models": "ILX:0791498",
+            "name": "White communicating ramus of right fifth thoracic intercostal nerve"
         },
         "S48_T5-Left": {
-            "models": "ILX:0793211",
-            "name": "White communicating ramus of fifth thoracic anterior ramus"
+            "models": "ILX:0784717",
+            "name": "White communicating ramus of left fifth thoracic intercostal nerve"
         },
         "S48_T6-Right": {
-            "models": "ILX:0793212",
-            "name": "White communicating ramus of sixth thoracic anterior ramus"
+            "models": "ILX:0792201",
+            "name": "White communicating ramus of right sixth thoracic intercostal nerve"
         },
         "S48_T6-Left": {
-            "models": "ILX:0793212",
-            "name": "White communicating ramus of sixth thoracic anterior ramus"
+            "models": "ILX:0784809",
+            "name": "White communicating ramus of left sixth thoracic intercostal nerve"
         },
         "S48_T7-Right": {
-            "models": "ILX:0793213",
-            "name": "White communicating ramus of seventh thoracic anterior ramus"
+            "models": "ILX:0786071",
+            "name": "White communicating ramus of right seventh thoracic intercostal nerve"
         },
         "S48_T7-Left": {
-            "models": "ILX:0793213",
-            "name": "White communicating ramus of seventh thoracic anterior ramus"
+            "models": "ILX:0789195",
+            "name": "White communicating ramus of left seventh thoracic intercostal nerve"
         },
         "S48_T8-Right": {
-            "models": "ILX:0793214",
-            "name": "White communicating ramus of eighth thoracic anterior ramus"
+            "models": "ILX:0792831",
+            "name": "White communicating ramus of right eighth thoracic intercostal nerve"
         },
         "S48_T8-Left": {
-            "models": "ILX:0793214",
-            "name": "White communicating ramus of eighth thoracic anterior ramus"
+            "models": "ILX:0789865",
+            "name": "White communicating ramus of left eighth thoracic intercostal nerve"
         },
         "S48_T9-Right": {
-            "models": "ILX:0793215",
-            "name": "White communicating ramus of ninth thoracic anterior ramus"
+            "models": "ILX:0786061",
+            "name": "White communicating ramus of right ninth thoracic intercostal nerve"
         },
         "S48_T9-Left": {
-            "models": "ILX:0793215",
-            "name": "White communicating ramus of ninth thoracic anterior ramus"
+            "models": "ILX:0786234",
+            "name": "White communicating ramus of left ninth thoracic intercostal nerve"
         },
         "S48_T10-Right": {
-            "models": "ILX:0793216",
-            "name": "White communicating ramus of tenth thoracic anterior ramus"
+            "models": "ILX:0784598",
+            "name": "White communicating ramus of right tenth thoracic intercostal nerve"
         },
         "S48_T10-Left": {
-            "models": "ILX:0793216",
-            "name": "White communicating ramus of tenth thoracic anterior ramus"
+            "models": "ILX:0790059",
+            "name": "White communicating ramus of left tenth thoracic intercostal nerve"
         },
         "S48_T11-Right": {
-            "models": "ILX:0793217",
-            "name": "White communicating ramus of eleventh thoracic anterior ramus"
+            "models": "ILX:0790247",
+            "name": "White communicating ramus of right eleventh thoracic intercostal nerve"
         },
         "S48_T11-Left": {
-            "models": "ILX:0793217",
-            "name": "White communicating ramus of eleventh thoracic anterior ramus"
+            "models": "ILX:0785203",
+            "name": "White communicating ramus of left eleventh thoracic intercostal nerve"
         },
         "S48_T12-Right": {
-            "models": "ILX:0793218",
-            "name": "White communicating ramus of twelveth thoracic anterior ramus"
+            "models": "ILX:0796939",
+            "name": "White communicating ramus of right subcostal nerve"
         },
         "S48_T12-Left": {
-            "models": "ILX:0793218",
-            "name": "White communicating ramus of twelveth thoracic anterior ramus"
+            "models": "ILX:0796940",
+            "name": "White communicating ramus of left subcostal nerve"
         },
         "S48_L1-Right": {
-            "models": "ILX:0793220",
-            "name": "White communicating ramus of first lumbar anterior ramus"
+            "models": "ILX:0791910",
+            "name": "White communicating ramus of right first lumbar nerve"
         },
         "S48_L1-Left": {
-            "models": "ILX:0793220",
-            "name": "White communicating ramus of first lumbar anterior ramus"
+            "models": "ILX:0785376",
+            "name": "White communicating ramus of left first lumbar nerve"
         },
         "S48_L2-Right": {
-            "models": "ILX:0793221",
-            "name": "White communicating ramus of second lumbar anterior ramus"
+            "models": "ILX:0790534",
+            "name": "White communicating ramus of right second lumbar nerve"
         },
         "S48_L2-Left": {
-            "models": "ILX:0793221",
-            "name": "White communicating ramus of second lumbar anterior ramus"
+            "models": "ILX:0788743",
+            "name": "White communicating ramus of left second lumbar nerve"
         },
         "S48_L3-Right": {
-            "models": "ILX:0793361",
-            "name": "White communicating ramus of third lumbar anterior ramus"
+            "models": "ILX:0784796",
+            "name": "White communicating ramus of right third lumbar nerve"
         },
         "S48_L3-Left": {
-            "models": "ILX:0793361",
-            "name": "White communicating ramus of third lumbar anterior ramus"
+            "models": "ILX:0787348",
+            "name": "White communicating ramus of left third lumbar nerve"
         },
         "S48_L4-Right": {
             "models": "ILX:0793362",
@@ -2037,7 +2037,8 @@
             "name": "White communicating ramus of fourth lumbar anterior ramus"
         },
         "S48_L5-Right": {
-            "class": "spinal_48"
+            "models": "ILX:0787023",
+            "name": "White communicating ramus of lumbar nerve"
         },
         "S48_L5-Left": {
             "class": "spinal_48"
