@@ -2162,12 +2162,12 @@
             "name": "Gray communicating ramus of left eleventh intercostal nerve"
         },
         "S49_T12-Right": {
-            "models": "ILX:0739298",
-            "name": "Gray Communicating Ramus of Twelfth Thoracic Nerve"
+            "models": "ILX:0796937",
+            "name": "Gray communicating ramus of right subcostal nerve "
         },
         "S49_T12-Left": {
-            "models": "ILX:0739298",
-            "name": "Gray Communicating Ramus of Twelfth Thoracic Nerve"
+            "models": "ILX:0796938",
+            "name": "Gray communicating ramus of left subcostal nerve "
         },
         "S49_L1-Right": {
             "models": "ILX:0796955",

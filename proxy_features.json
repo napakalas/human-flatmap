@@ -479,6 +479,13 @@
         ]
     },
     {
+        "feature": "ILX:0739298",
+        "name": "Gray communicating ramus of twelfth thoracic nerve",
+        "proxies": [
+            "ILX:0796937"
+        ]
+    },
+    {
         "feature": "ILX:0785825",
         "name": "Gray communicating ramus of first lumbar nerve",
         "proxies": [
