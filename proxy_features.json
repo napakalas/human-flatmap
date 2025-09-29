@@ -105,6 +105,34 @@
         ]
     },
     {
+        "feature": "ILX:0785440",
+        "name": "Posterior root of fifth cervical nerve",
+        "proxies": [
+            "ILX:0792712"
+        ]
+    },
+    {
+        "feature": "ILX:0792748",
+        "name": "Posterior root of sixth cervical nerve",
+        "proxies": [
+            "ILX:0784696"
+        ]
+    },
+    {
+        "feature": "ILX:0789105",
+        "name": "Posterior root of seventh cervical nerve",
+        "proxies": [
+            "ILX:0784965"
+        ]
+    },
+    {
+        "feature": "ILX:0785632",
+        "name": "Posterior root of first thoracic nerve",
+        "proxies": [
+            "ILX:0790800"
+        ]
+    },
+    {
         "feature": "ILX:0784605",
         "name": "posterior root of seventh thoracic nerve",
         "proxies": [
@@ -165,6 +193,48 @@
         "name": "posterior root of third lumbar nerve",
         "proxies": [
             "ILX:0792984"
+        ]
+    },
+    {
+        "feature": "ILX:0786747",
+        "name": "posterior root of fourth lumbar nerve",
+        "proxies": [
+            "ILX:0788504"
+        ]
+    },
+    {
+        "feature": "ILX:0785201",
+        "name": "posterior root of fifth lumbar nerve",
+        "proxies": [
+            "ILX:0788182"
+        ]
+    },
+    {
+        "feature": "ILX:0791633",
+        "name": "posterior root of first sacral nerve",
+        "proxies": [
+            "ILX:0789717"
+        ]
+    },
+    {
+        "feature": "ILX:0788723",
+        "name": "posterior root of second sacral nerve",
+        "proxies": [
+            "ILX:0790532"
+        ]
+    },
+    {
+        "feature": "ILX:0786145",
+        "name": "posterior root of third sacral nerve",
+        "proxies": [
+            "ILX:0785877"
+        ]
+    },
+    {
+        "feature": "ILX:0785338",
+        "name": "posterior root of fourth sacral nerve",
+        "proxies": [
+            "ILX:0787750"
         ]
     },
     {
