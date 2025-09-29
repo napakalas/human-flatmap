@@ -378,6 +378,13 @@
         ]
     },
     {
+        "feature": "ILX:0786933",
+        "name": "Second lumbar ganglion",
+        "proxies": [
+            "ILX:0792386"
+        ]
+    },
+    {
         "feature": "ILX:0788315",
         "name": "Third lumbar ganglion",
         "proxies": [
@@ -392,10 +399,31 @@
         ]
     },
     {
+        "feature": "ILX:0739296",
+        "name": "Fifth lumbar ganglion",
+        "proxies": [
+            "ILX:0739296"
+        ]
+    },
+    {
         "feature": "ILX:0789109",
         "name": "First sacral ganglion",
         "proxies": [
             "ILX:0787464"
+        ]
+    },
+    {
+        "feature": "ILX:0789655",
+        "name": "Second sacral ganglion",
+        "proxies": [
+            "ILX:0792153"
+        ]
+    },
+    {
+        "feature": "ILX:0790394",
+        "name": "Third sacral ganglion",
+        "proxies": [
+            "ILX:0784768"
         ]
     },
     {
