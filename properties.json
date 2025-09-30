@@ -3280,8 +3280,11 @@
         "endocrine_2-1": {
             "class": "endocrine_2"
         },
-        "endocrine_3-1": {
-            "class": "endocrine_3"
+        "endocrine_7-1": {
+            "class": "endocrine_7"
+        },
+        "endocrine_8-1": {
+            "class": "endocrine_8"
         },
         "keast_1-1": {
             "class": "keast_1",
@@ -5271,7 +5274,7 @@
                     "id": "n_84",
                     "connects": [
                         "n_82_branching_point",
-                        "endocrine_3-1"
+                        "endocrine_7-1"
                     ]
                 },
                 {
