@@ -2842,9 +2842,10 @@
             "models": "ILX:0770925",
             "name": "Oculomotor nucleus (mba)"
         },
-        "oculomotor_nerve_cn_iii": {
+        "oculomotor_c": {
             "models": "UBERON:0001643",
-            "name": "Oculomotor nerve"
+            "name": "Oculomotor nerve",
+            "type": "nerve"
         },
         "red_nucleus": {
             "models": "UBERON:0001947",
