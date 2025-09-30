@@ -891,6 +891,14 @@
         "term": "ILX:0102147",
         "name": "Chromaffin cell"
     },
+    "endocrine_7": {
+        "term": "UBERON:0001233",
+        "name": "right adrenal gland"
+    },
+    "endocrine_8": {
+        "term": "UBERON:0001234",
+        "name": "left adrenal gland"
+    },
     "body_1": {
         "term": "UBERON:0000019",
         "name": "camera-type eye"

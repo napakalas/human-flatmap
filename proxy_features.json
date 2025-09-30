@@ -722,5 +722,13 @@
         "proxies": [
             "ILX:0784796"
         ]
+    },
+    {
+        "feature": "UBERON:0002369",
+        "name": "Adrenal gland",
+        "proxies": [
+            "UBERON:0001233",
+            "UBERON:0001234"
+        ]
     }
 ]

@@ -808,8 +808,20 @@
         "name": "adrenal gland",
         "aliases": [
             [
+                "UBERON:0001235",
+                [
+                    "UBERON:0002369"
+                ]
+            ],
+            [
                 "UBERON:0001236",
                 []
+            ],
+            [
+                "UBERON:0001236",
+                [
+                    "UBERON:0002369"
+                ]
             ]
         ]
     },
