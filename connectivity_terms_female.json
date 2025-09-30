@@ -162,15 +162,15 @@
     },
     {
         "id": [
-            "UBERON:0007240",
+            "UBERON:0004664",
             [
                 "UBERON:0000947"
             ]
         ],
-        "name": "tunica adventitia of artery/aorta",
+        "name": "aorta tunica adventitia/aorta",
         "aliases": [
             [
-                "UBERON:0007240",
+                "UBERON:0004664",
                 [
                     "UBERON:0001496"
                 ]
