@@ -695,6 +695,14 @@
         "term": "UBERON:0002017",
         "name": "portal vein"
     },
+    "digestive_93": {
+        "term": "UBERON:0004782",
+        "name": "gastrointestinal system serosa"
+    },
+    "digestive_94": {
+        "term": "UBERON:0005436",
+        "name": "common hepatic artery"
+    },
     "skeleton_1": {
         "term": "UBERON:0001684",
         "name": "mandible"
