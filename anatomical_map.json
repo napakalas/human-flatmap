@@ -1387,10 +1387,6 @@
         "term": "ILX:0738309",
         "name": "Internal branch of inferior laryngeal nerve"
     },
-    "bolser_3": {
-        "term": "ILX:0738308",
-        "name": "External branch of inferior laryngeal nerve"
-    },
     "bolser_4": {
         "term": "ILX:0738374",
         "name": "External branch of superior laryngeal nerve"
@@ -1398,10 +1394,6 @@
     "bolser_5": {
         "term": "UBERON:0001649",
         "name": "glossopharyngeal nerve"
-    },
-    "bolser_8": {
-        "term": "UBERON:0001650",
-        "name": "hypoglossal nerve"
     },
     "bolser_16": {
         "term": "ILX:0738315",
