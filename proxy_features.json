@@ -245,6 +245,27 @@
         ]
     },
     {
+        "feature": "ILX:0789894",
+        "name": "Ventral root of the second thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0784708"
+        ]
+    },
+    {
+        "feature": "ILX:0784804",
+        "name": "Ventral root of the third thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0789187"
+        ]
+    },
+    {
+        "feature": "ILX:0792838",
+        "name": "Ventral root of the fourth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0785361"
+        ]
+    },
+    {
         "feature": "ILX:0790146",
         "name": "ventral root of the fifth thoracic spinal cord segment",
         "proxies": [
@@ -280,10 +301,66 @@
         ]
     },
     {
+        "feature": "ILX:0788670",
+        "name": "Ventral root of the tenth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0787993"
+        ]
+    },
+    {
+        "feature": "ILX:0790602",
+        "name": "Ventral root of the eleventh thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0787220"
+        ]
+    },
+    {
+        "feature": "ILX:0792048",
+        "name": "Ventral root of the twelveth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0787115"
+        ]
+    },
+    {
+        "feature": "ILX:0785421",
+        "name": "Ventral root of the first lumbar spinal cord segment",
+        "proxies": [
+            "ILX:0791012"
+        ]
+    },
+    {
+        "feature": "ILX:0788675",
+        "name": "Ventral root of the second lumbar spinal cord segment",
+        "proxies": [
+            "ILX:0786495"
+        ]
+    },
+    {
+        "feature": "ILX:0787520",
+        "name": "Ventral root of the third lumbar spinal cord segment",
+        "proxies": [
+            "ILX:0788492"
+        ]
+    },
+    {
         "feature": "ILX:0789968",
         "name": "ventral root of the fourth lumbar spinal cord segment",
         "proxies": [
             "ILX:0791172"
+        ]
+    },
+    {
+        "feature": "ILX:0791148",
+        "name": "Ventral root of the fifth lumbar spinal cord segment",
+        "proxies": [
+            "ILX:0788078"
+        ]
+    },
+    {
+        "feature": "ILX:0792853",
+        "name": "Ventral root of the first sacral spinal cord segment",
+        "proxies": [
+            "ILX:0784891"
         ]
     },
     {
