@@ -4396,6 +4396,10 @@
         "cardiac_interganglionic_c": {
             "type": "nerve",
             "models": "ILX:0796679"
+        },
+        "penile_cavernous_c": {
+            "type": "nerve",
+            "models": "ILX:0793807"
         }
     },
     "networks": [
