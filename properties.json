@@ -4041,6 +4041,9 @@
         "label_28-1": {
             "class": "label_28"
         },
+        "label_29-1": {
+            "class": "label_29"
+        },
         "vagus_1": {
             "type": "nerve",
             "models": "ILX:0793829"
