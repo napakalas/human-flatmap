@@ -49,6 +49,69 @@
         ]
     },
     {
+        "feature": "UBERON:0002842",
+        "name": "fifth cervical dorsal root ganglion",
+        "proxies": [
+            "ILX:0786961"
+        ]
+    },
+    {
+        "feature": "UBERON:0007711",
+        "name": "sixth cervical dorsal root ganglion",
+        "proxies": [
+            "ILX:0791862"
+        ]
+    },
+    {
+        "feature": "UBERON:0002843",
+        "name": "seventh cervical dorsal root ganglion",
+        "proxies": [
+            "ILX:0789091"
+        ]
+    },
+    {
+        "feature": "UBERON:0002845",
+        "name": "first thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0792148"
+        ]
+    },
+    {
+        "feature": "UBERON:0002846",
+        "name": "second thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0789962"
+        ]
+    },
+    {
+        "feature": "UBERON:0002847",
+        "name": "third thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0789643"
+        ]
+    },
+    {
+        "feature": "UBERON:0007712",
+        "name": "fourth thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0784420"
+        ]
+    },
+    {
+        "feature": "UBERON:0002848",
+        "name": "fifth thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0788772"
+        ]
+    },
+    {
+        "feature": "UBERON:0002849",
+        "name": "sixth thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0791527"
+        ]
+    },
+    {
         "feature": "UBERON:0002857",
         "name": "first lumbar dorsal root ganglion",
         "proxies": [
@@ -67,6 +130,27 @@
         "name": "third lumbar dorsal root ganglion",
         "proxies": [
             "ILX:0786189"
+        ]
+    },
+    {
+        "feature": "UBERON:0003943",
+        "name": "fourth lumbar dorsal root ganglion",
+        "proxies": [
+            "ILX:0790370"
+        ]
+    },
+    {
+        "feature": "UBERON:0002859",
+        "name": "fifth lumbar dorsal root ganglion",
+        "proxies": [
+            "ILX:0791988"
+        ]
+    },
+    {
+        "feature": "UBERON:0002860",
+        "name": "first sacral spinal ganglion",
+        "proxies": [
+            "ILX:0785106"
         ]
     },
     {
@@ -473,13 +557,6 @@
         "name": "Fourth lumbar ganglion",
         "proxies": [
             "ILX:0792531"
-        ]
-    },
-    {
-        "feature": "ILX:0739296",
-        "name": "Fifth lumbar ganglion",
-        "proxies": [
-            "ILX:0739296"
         ]
     },
     {
