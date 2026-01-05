@@ -407,5 +407,110 @@
         "proxies": [
             "ILX:0786189"
         ]
+    },
+    {
+        "feature": "ILX:0738372",
+        "name": "White communicating ramus of first thoracic spinal nerve",
+        "proxies": [
+            "ILX:0789706"
+        ]
+    },
+    {
+        "feature": "ILX:0793208",
+        "name": "White communicating ramus of second thoracic spinal nerve",
+        "proxies": [
+            "ILX:0784453"
+        ]
+    },
+    {
+        "feature": "ILX:0793209",
+        "name": "White communicating ramus of third thoracic spinal nerve",
+        "proxies": [
+            "ILX:0786631"
+        ]
+    },
+    {
+        "feature": "ILX:0793210",
+        "name": "White communicating ramus of fourth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0784621"
+        ]
+    },
+    {
+        "feature": "ILX:0793211",
+        "name": "White communicating ramus of fifth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0791498"
+        ]
+    },
+    {
+        "feature": "ILX:0793212",
+        "name": "White communicating ramus of sixth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0792201"
+        ]
+    },
+    {
+        "feature": "ILX:0793213",
+        "name": "White communicating ramus of seventh thoracic spinal nerve",
+        "proxies": [
+            "ILX:0786071"
+        ]
+    },
+    {
+        "feature": "ILX:0793214",
+        "name": "White communicating ramus of eighth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0792831"
+        ]
+    },
+    {
+        "feature": "ILX:0793215",
+        "name": "White communicating ramus of ninth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0786061"
+        ]
+    },
+    {
+        "feature": "ILX:0793216",
+        "name": "White communicating ramus of tenth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0784598"
+        ]
+    },
+    {
+        "feature": "ILX:0793217",
+        "name": "White communicating ramus of eleventh thoracic spinal nerve",
+        "proxies": [
+            "ILX:0790247"
+        ]
+    },
+    {
+        "feature": "ILX:0793218",
+        "name": "White communicating ramus of twelfth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0796939"
+        ]
+    },
+    {
+        "feature": "ILX:0793220",
+        "name": "White communicating ramus of first lumbar spinal nerve",
+        "proxies": [
+            "ILX:0791910"
+        ]
+    },
+    {
+        "feature": "ILX:0793221",
+        "name": "White communicating ramus of second lumbar spinal nerve",
+        "proxies": [
+            "ILX:0790534"
+        ]
+    },
+    {
+        "feature": "ILX:0793361",
+        "name": "White communicating ramus of third lumbar spinal nerve",
+        "proxies": [
+            "ILX:0784796"
+        ]
     }
 ]
