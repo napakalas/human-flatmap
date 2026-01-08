@@ -565,19 +565,6 @@
     },
     {
         "id": [
-            "UBERON:0010061",
-            []
-        ],
-        "name": "lumen of nasopharynx",
-        "aliases": [
-            [
-                "UBERON:0001826",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0006462",
             []
         ],
