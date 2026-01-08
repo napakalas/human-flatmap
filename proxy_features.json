@@ -315,6 +315,13 @@
         ]
     },
     {
+        "feature": "ILX:0786933",
+        "name": "Second lumbar ganglion",
+        "proxies": [
+            "ILX:0792386"
+        ]
+    },
+    {
         "feature": "ILX:0788315",
         "name": "Third lumbar ganglion",
         "proxies": [
