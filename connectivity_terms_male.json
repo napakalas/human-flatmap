@@ -492,26 +492,26 @@
     },
     {
         "id": [
-            "ILX:0739303",
+            "ILX:0791105",
             []
         ],
-        "name": "gray communicating ramus of second thoracic nerve",
+        "name": "gray communicating ramus of the second thoracic nerve",
         "aliases": [
             [
-                "ILX:0791105",
+                "ILX:0739303",
                 []
             ]
         ]
     },
     {
         "id": [
-            "ILX:0787562",
+            "ILX:0739304",
             []
         ],
         "name": "gray communicating ramus of the third thoracic nerve",
         "aliases": [
             [
-                "ILX:0739304",
+                "ILX:0787562",
                 []
             ]
         ]
