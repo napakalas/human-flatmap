@@ -466,13 +466,13 @@
     },
     {
         "id": [
-            "ILX:0787082",
+            "ILX:0790497",
             []
         ],
         "name": "gray communicating ramus of the first thoracic nerve",
         "aliases": [
             [
-                "ILX:0790497",
+                "ILX:0787082",
                 []
             ]
         ]
@@ -492,13 +492,13 @@
     },
     {
         "id": [
-            "ILX:0787562",
+            "ILX:0739304",
             []
         ],
         "name": "gray communicating ramus of the third thoracic nerve",
         "aliases": [
             [
-                "ILX:0739304",
+                "ILX:0787562",
                 []
             ]
         ]
@@ -559,19 +559,6 @@
             ],
             [
                 "ILX:0793738",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0010061",
-            []
-        ],
-        "name": "lumen of nasopharynx",
-        "aliases": [
-            [
-                "UBERON:0001826",
                 []
             ]
         ]
@@ -639,8 +626,20 @@
         "name": "adrenal gland",
         "aliases": [
             [
+                "UBERON:0001235",
+                [
+                    "UBERON:0002369"
+                ]
+            ],
+            [
                 "UBERON:0001236",
                 []
+            ],
+            [
+                "UBERON:0001236",
+                [
+                    "UBERON:0002369"
+                ]
             ]
         ]
     },

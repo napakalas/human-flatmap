@@ -315,6 +315,13 @@
         ]
     },
     {
+        "feature": "ILX:0786933",
+        "name": "Second lumbar ganglion",
+        "proxies": [
+            "ILX:0792386"
+        ]
+    },
+    {
         "feature": "ILX:0788315",
         "name": "Third lumbar ganglion",
         "proxies": [
@@ -406,6 +413,238 @@
         "name": "lumbar dorsal root ganglion",
         "proxies": [
             "ILX:0786189"
+        ]
+    },
+    {
+        "feature": "ILX:0738372",
+        "name": "White communicating ramus of first thoracic spinal nerve",
+        "proxies": [
+            "ILX:0789706"
+        ]
+    },
+    {
+        "feature": "ILX:0793208",
+        "name": "White communicating ramus of second thoracic spinal nerve",
+        "proxies": [
+            "ILX:0784453"
+        ]
+    },
+    {
+        "feature": "ILX:0793209",
+        "name": "White communicating ramus of third thoracic spinal nerve",
+        "proxies": [
+            "ILX:0786631"
+        ]
+    },
+    {
+        "feature": "ILX:0793210",
+        "name": "White communicating ramus of fourth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0784621"
+        ]
+    },
+    {
+        "feature": "ILX:0793211",
+        "name": "White communicating ramus of fifth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0791498"
+        ]
+    },
+    {
+        "feature": "ILX:0793212",
+        "name": "White communicating ramus of sixth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0792201"
+        ]
+    },
+    {
+        "feature": "ILX:0793213",
+        "name": "White communicating ramus of seventh thoracic spinal nerve",
+        "proxies": [
+            "ILX:0786071"
+        ]
+    },
+    {
+        "feature": "ILX:0793214",
+        "name": "White communicating ramus of eighth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0792831"
+        ]
+    },
+    {
+        "feature": "ILX:0793215",
+        "name": "White communicating ramus of ninth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0786061"
+        ]
+    },
+    {
+        "feature": "ILX:0793216",
+        "name": "White communicating ramus of tenth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0784598"
+        ]
+    },
+    {
+        "feature": "ILX:0793217",
+        "name": "White communicating ramus of eleventh thoracic spinal nerve",
+        "proxies": [
+            "ILX:0790247"
+        ]
+    },
+    {
+        "feature": "ILX:0793218",
+        "name": "White communicating ramus of twelfth thoracic spinal nerve",
+        "proxies": [
+            "ILX:0796939"
+        ]
+    },
+    {
+        "feature": "ILX:0793220",
+        "name": "White communicating ramus of first lumbar spinal nerve",
+        "proxies": [
+            "ILX:0791910"
+        ]
+    },
+    {
+        "feature": "ILX:0793221",
+        "name": "White communicating ramus of second lumbar spinal nerve",
+        "proxies": [
+            "ILX:0790534"
+        ]
+    },
+    {
+        "feature": "ILX:0793361",
+        "name": "White communicating ramus of third lumbar spinal nerve",
+        "proxies": [
+            "ILX:0784796"
+        ]
+    },
+    {
+        "feature": "ILX:0787082",
+        "name": "Gray communicating ramus of first intercostal nerve",
+        "proxies": [
+            "ILX:0791865"
+        ]
+    },
+    {
+        "feature": "ILX:0739303",
+        "name": "Gray communicating ramus of second intercostal nerve",
+        "proxies": [
+            "ILX:0792452"
+        ]
+    },
+    {
+        "feature": "ILX:0787562",
+        "name": "Gray communicating ramus of third intercostal nerve",
+        "proxies": [
+            "ILX:0788842"
+        ]
+    },
+    {
+        "feature": "ILX:0788945",
+        "name": "Gray communicating ramus of fourth intercostal nerve",
+        "proxies": [
+            "ILX:0785311"
+        ]
+    },
+    {
+        "feature": "ILX:0784439",
+        "name": "Gray communicating ramus of fifth intercostal nerve",
+        "proxies": [
+            "ILX:0787369"
+        ]
+    },
+    {
+        "feature": "ILX:0787946",
+        "name": "Gray communicating ramus of sixth intercostal nerve",
+        "proxies": [
+            "ILX:0792099"
+        ]
+    },
+    {
+        "feature": "ILX:0788771",
+        "name": "Gray communicating ramus of seventh intercostal nerve",
+        "proxies": [
+            "ILX:0792878"
+        ]
+    },
+    {
+        "feature": "ILX:0791560",
+        "name": "Gray communicating ramus of eighth intercostal nerve",
+        "proxies": [
+            "ILX:0785921"
+        ]
+    },
+    {
+        "feature": "ILX:0785542",
+        "name": "Gray communicating ramus of ninth intercostal nerve",
+        "proxies": [
+            "ILX:0787012"
+        ]
+    },
+    {
+        "feature": "ILX:0792409",
+        "name": "Gray communicating ramus of tenth intercostal nerve",
+        "proxies": [
+            "ILX:0791007"
+        ]
+    },
+    {
+        "feature": "ILX:0785067",
+        "name": "Gray communicating ramus of eleventh intercostal nerve",
+        "proxies": [
+            "ILX:0784673"
+        ]
+    },
+    {
+        "feature": "ILX:0739298",
+        "name": "Gray communicating ramus of twelfth intercostal nerve",
+        "proxies": [
+            "ILX:0796937"
+        ]
+    },
+    {
+        "feature": "ILX:0785825",
+        "name": "Gray communicating ramus of first lumbar nerve",
+        "proxies": [
+            "ILX:0796955"
+        ]
+    },
+    {
+        "feature": "ILX:0785733",
+        "name": "Gray communicating ramus of second lumbar nerve",
+        "proxies": [
+            "ILX:0796959"
+        ]
+    },
+    {
+        "feature": "ILX:0785932",
+        "name": "Gray communicating ramus of third lumbar nerve",
+        "proxies": [
+            "ILX:0796965"
+        ]
+    },
+    {
+        "feature": "ILX:0788536",
+        "name": "Gray communicating ramus of fourth lumbar nerve",
+        "proxies": [
+            "ILX:0796967"
+        ]
+    },
+    {
+        "feature": "ILX:0793228",
+        "name": "Gray communicating ramus of first sacral nerve",
+        "proxies": [
+            "ILX:0797025"
+        ]
+    },
+    {
+        "feature": "UBERON:0002369",
+        "name": "Adrenal gland",
+        "proxies": [
+            "UBERON:0001233",
+            "UBERON:0001234"
         ]
     }
 ]
