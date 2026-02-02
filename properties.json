@@ -2680,6 +2680,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_28-1": {
+            "models": "ILX:0793734",
+            "name": "Myenteric ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -3255,6 +3261,12 @@
         },
         "digestive_92-1": {
             "class": "digestive_92"
+        },
+        "digestive_93-1": {
+            "class": "digestive_93"
+        },
+        "digestive_94-1": {
+            "class": "digestive_94"
         },
         "digestive_9-1": {
             "class": "digestive_9"
