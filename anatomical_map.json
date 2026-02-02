@@ -715,6 +715,30 @@
         "term": "UBERON:0001902",
         "name": "epithelium of small intestine"
     },
+    "digestive_98": {
+        "term": "UBERON:0014390",
+        "name": "muscle layer of ileum"
+    },
+    "digestive_99": {
+        "term": "UBERON:0012377",
+        "name": "muscle layer of jejunum"
+    },
+    "digestive_100": {
+        "term": "ILX:0795341",
+        "name": "muscle layer of proximal colon"
+    },
+    "digestive_101": {
+        "term": "ILX:0773238",
+        "name": "Muscle layer of transverse colon"
+    },
+    "digestive_102": {
+        "term": "ILX:0773031",
+        "name": "Distal part of transverse colon"
+    },
+    "digestive_103": {
+        "term": "ILX:0795342",
+        "name": "upper part of the anal canal"
+    },
     "skeleton_1": {
         "term": "UBERON:0001684",
         "name": "mandible"
