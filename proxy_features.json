@@ -77,6 +77,20 @@
         ]
     },
     {
+        "feature": "UBERON:0003943",
+        "name": "fourth lumbar dorsal root ganglion",
+        "proxies": [
+            "ILX:0790370"
+        ]
+    },
+    {
+        "feature": "UBERON:0002859",
+        "name": "fifth lumbar dorsal root ganglion",
+        "proxies": [
+            "ILX:0791988"
+        ]
+    },
+    {
         "feature": "UBERON:0002861",
         "name": "second sacral spinal ganglion",
         "proxies": [

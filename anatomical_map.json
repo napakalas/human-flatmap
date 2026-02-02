@@ -703,6 +703,18 @@
         "term": "UBERON:0012419",
         "name": "Taenia coli"
     },
+    "digestive_95": {
+        "term": "UBERON:0002108",
+        "name": "Small intestine"
+    },
+    "digestive_96": {
+        "term": "UBERON:0001153",
+        "name": "caecum"
+    },
+    "digestive_97": {
+        "term": "UBERON:0001902",
+        "name": "epithelium of small intestine"
+    },
     "skeleton_1": {
         "term": "UBERON:0001684",
         "name": "mandible"
