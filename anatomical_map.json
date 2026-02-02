@@ -512,28 +512,28 @@
         "name": "bile duct"
     },
     "digestive_45": {
-        "term": "UBERON:8410060",
-        "name": "Circular Muscle Layer of Colon"
+        "term": "ILX:0773760",
+        "name": "Circular muscle layer of descending colon"
     },
     "digestive_46": {
-        "term": "UBERON:0007177",
-        "name": "Lamina Propria of Mucosa of Colon"
+        "term": "ILX:0770759",
+        "name": "Lamina propria mucosae of descending colon"
     },
     "digestive_48": {
-        "term": "UBERON:0003335",
-        "name": "Serosa of Colon"
+        "term": "ILX:0771089",
+        "name": "Serosa of descending colon"
     },
     "digestive_49": {
-        "term": "UBERON:8410061",
-        "name": "Longitudinal Muscle Layer of Colon"
+        "term": "ILX:0776070",
+        "name": "Longitudinal muscle layer of descending colon"
     },
     "digestive_51": {
         "term": "UBERON:0001211",
         "name": "Peyer's Patch"
     },
     "digestive_52": {
-        "term": "UBERON:0001981",
-        "name": "Blood vessel"
+        "term": "UBERON:0035965",
+        "name": "Wall of blood vessel"
     },
     "digestive_53": {
         "term": "UBERON:0001199",
