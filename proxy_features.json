@@ -667,5 +667,12 @@
         "proxies": [
             "UBERON:0006469"
         ]
+    },
+    {
+        "feature": "UBERON:0002014",
+        "name": "inferior hypogastric nerve plexus",
+        "proxies": [
+            "UBERON:0016508"
+        ]
     }
 ]
