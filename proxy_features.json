@@ -660,5 +660,12 @@
             "UBERON:0001233",
             "UBERON:0001234"
         ]
+    },
+    {
+        "feature": "UBERON:0004170",
+        "name": "Spinal cord ventral commissure",
+        "proxies": [
+            "UBERON:0006469"
+        ]
     }
 ]

@@ -2824,6 +2824,21 @@
         "brain_52-1": {
             "class": "brain_52"
         },
+        "brain_53-1": {
+            "class": "brain_53"
+        },
+        "brain_54-1": {
+            "class": "brain_54"
+        },
+        "brain_55-1": {
+            "class": "brain_55"
+        },
+        "brain_56-1": {
+            "class": "brain_56"
+        },
+        "brain_57-1": {
+            "class": "brain_57"
+        },
         "trochlear_nucleus": {
             "models": "UBERON:0002722",
             "name": "Trochlear Nucleus"
