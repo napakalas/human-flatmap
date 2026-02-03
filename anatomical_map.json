@@ -1443,6 +1443,10 @@
         "term": "UBERON:0002945",
         "name": "ventral posteromedial nucleus of thalamus"
     },
+    "brain_58": {
+        "term": "ILX:0793626",
+        "name": "Ventrolateral periaqueductal gray"
+    },
     "bolser_2": {
         "term": "ILX:0738309",
         "name": "Internal branch of inferior laryngeal nerve"
