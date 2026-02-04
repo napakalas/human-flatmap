@@ -2635,9 +2635,6 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
-        "ganglion_23-1": {
-            "class": "ganglion_23"
-        },
         "trigeminal_ganglion": {
             "class": "ganglion_23"
         },

@@ -674,5 +674,12 @@
         "proxies": [
             "UBERON:0016508"
         ]
+    },
+    {
+        "feature": "UBERON:0001645",
+        "name": "trigeminal nerve",
+        "proxies": [
+            "ILX:0792877"
+        ]
     }
 ]
