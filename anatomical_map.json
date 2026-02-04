@@ -739,6 +739,10 @@
         "term": "ILX:0795342",
         "name": "upper part of the anal canal"
     },
+    "digestive_104": {
+        "term": "UBERON:0005436",
+        "name": "common hepatic artery"
+    },
     "skeleton_1": {
         "term": "UBERON:0001684",
         "name": "mandible"
