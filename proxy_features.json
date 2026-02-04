@@ -196,6 +196,27 @@
         ]
     },
     {
+        "feature": "ILX:0789894",
+        "name": "Ventral root of the second thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0784708"
+        ]
+    },
+    {
+        "feature": "ILX:0784804",
+        "name": "Ventral root of the third thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0789187"
+        ]
+    },
+    {
+        "feature": "ILX:0792838",
+        "name": "Ventral root of the fourth thoracic spinal cord segment",
+        "proxies": [
+            "ILX:0785361"
+        ]
+    },
+    {
         "feature": "ILX:0790146",
         "name": "ventral root of the fifth thoracic spinal cord segment",
         "proxies": [
