@@ -747,6 +747,10 @@
         "term": "UBERON:0004782",
         "name": "gastrointestinal system serosa"
     },
+    "digestive_106": {
+        "term": "UBERON:0004222",
+        "name": "stomach smooth muscle"
+    },
     "skeleton_1": {
         "term": "UBERON:0001684",
         "name": "mandible"
