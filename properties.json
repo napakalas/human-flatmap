@@ -4470,6 +4470,10 @@
             "type": "nerve",
             "models": "ILX:0796679"
         },
+        "penile_cavernous_c": {
+            "type": "nerve",
+            "models": "ILX:0793807"
+        },
         "n_84_c": {
             "type": "nerve"
         },
