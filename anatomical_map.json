@@ -751,6 +751,14 @@
         "term": "UBERON:0004222",
         "name": "stomach smooth muscle"
     },
+    "digestive_107": {
+        "term": "UBERON:0011198",
+        "name": "muscle layer of large intestine"
+    },
+    "digestive_108": {
+        "term": "UBERON:0001278",
+        "name": "epithelium of large intestine"
+    },
     "skeleton_1": {
         "term": "UBERON:0001684",
         "name": "mandible"
