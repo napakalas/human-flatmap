@@ -743,6 +743,10 @@
         "term": "UBERON:0005436",
         "name": "common hepatic artery"
     },
+    "digestive_105": {
+        "term": "UBERON:0004782",
+        "name": "gastrointestinal system serosa"
+    },
     "skeleton_1": {
         "term": "UBERON:0001684",
         "name": "mandible"

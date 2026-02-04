@@ -238,6 +238,22 @@
             [
                 "UBERON:0018676",
                 []
+            ],
+            [
+                "ILX:0795513",
+                []
+            ],
+            [
+                "ILX:0795514",
+                []
+            ],
+            [
+                "ILX:0795515",
+                []
+            ],
+            [
+                "ILX:0795516",
+                []
             ]
         ]
     },
@@ -876,6 +892,10 @@
             [
                 "UBERON:0004243",
                 []
+            ],
+            [
+                "ILX:0726402",
+                []
             ]
         ]
     },
@@ -1147,6 +1167,10 @@
             [
                 "ILX:0792474",
                 []
+            ],
+            [
+                "ILX:0795493",
+                []
             ]
         ]
     },
@@ -1339,6 +1363,108 @@
             [
                 "ILX:0771006",
                 []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793656",
+            [
+                "ILX:0793558"
+            ]
+        ],
+        "name": "myenteric nerve plexus of stomach/distal stomach",
+        "aliases": [
+            [
+                "UBERON:0002439",
+                [
+                    "UBERON:0001165"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0008863",
+            [
+                "ILX:0793558"
+            ]
+        ],
+        "name": "stomach smooth muscle outer longitudinal layer/distal stomach",
+        "aliases": [
+            [
+                "UBERON:0008863",
+                [
+                    "UBERON:0001165"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001201",
+            [
+                "ILX:0793558"
+            ]
+        ],
+        "name": "serosa of stomach/distal stomach",
+        "aliases": [
+            [
+                "UBERON:0004782",
+                [
+                    "UBERON:0001165"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793656",
+            [
+                "UBERON:0002114"
+            ]
+        ],
+        "name": "myenteric nerve plexus of stomach/duodenum",
+        "aliases": [
+            [
+                "UBERON:0002439",
+                [
+                    "ILX:0774562"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0008863",
+            [
+                "UBERON:0002114"
+            ]
+        ],
+        "name": "stomach smooth muscle outer longitudinal layer/duodenum",
+        "aliases": [
+            [
+                "UBERON:0008863",
+                [
+                    "ILX:0774562"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0004782",
+            [
+                "UBERON:0002114"
+            ]
+        ],
+        "name": "gastrointestinal system serosa/duodenum",
+        "aliases": [
+            [
+                "UBERON:0004782",
+                [
+                    "ILX:0774562"
+                ]
             ]
         ]
     }
