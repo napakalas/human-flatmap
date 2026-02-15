@@ -115,14 +115,7 @@
         "feature": "UBERON:0002261",
         "name": "dorsal root of spinal cord",
         "proxies": [
-            "ILX:0792995",
-            "ILX:0786402",
-            "ILX:0785098",
-            "ILX:0785947",
-            "ILX:0784709",
-            "ILX:0790532",
-            "ILX:0785877",
-            "ILX:0787750"
+            "ILX:0788285"
         ]
     },
     {
