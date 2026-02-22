@@ -786,5 +786,61 @@
         "proxies": [
             "ILX:0787750"
         ]
+    },
+    {
+        "feature": "UBERON:0007711",
+        "name": "sixth cervical dorsal root ganglion",
+        "proxies": [
+            "ILX:0791862"
+        ]
+    },
+    {
+        "feature": "UBERON:0002843",
+        "name": "seventh cervical dorsal root ganglion",
+        "proxies": [
+            "ILX:0789091"
+        ]
+    },
+    {
+        "feature": "UBERON:0002845",
+        "name": "first thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0792148"
+        ]
+    },
+    {
+        "feature": "UBERON:0002846",
+        "name": "seconds thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0789962"
+        ]
+    },
+    {
+        "feature": "UBERON:0002847",
+        "name": "third thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0789643"
+        ]
+    },
+    {
+        "feature": "UBERON:0007712",
+        "name": "fourth thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0784420"
+        ]
+    },
+    {
+        "feature": "UBERON:0002848",
+        "name": "fifth thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0788772"
+        ]
+    },
+    {
+        "feature": "UBERON:0002860",
+        "name": "first sacral dorsal root ganglion",
+        "proxies": [
+            "ILX:0785106"
+        ]
     }
 ]
