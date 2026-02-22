@@ -751,5 +751,40 @@
         "proxies": [
             "ILX:0784891"
         ]
+    },
+    {
+        "feature": "ILX:0786747",
+        "name": "Posterior root of fourth lumbar nerve",
+        "proxies": [
+            "ILX:0788504"
+        ]
+    },
+    {
+        "feature": "ILX:0791633",
+        "name": "Posterior root of first sacral nerve",
+        "proxies": [
+            "ILX:0789717"
+        ]
+    },
+    {
+        "feature": "ILX:0788723",
+        "name": "Posterior root of second sacral nerve",
+        "proxies": [
+            "ILX:0790532"
+        ]
+    },
+    {
+        "feature": "ILX:0786145",
+        "name": "Posterior root of third sacral nerve",
+        "proxies": [
+            "ILX:0785877"
+        ]
+    },
+    {
+        "feature": "ILX:0785338",
+        "name": "Posterior root of fourth sacral nerve",
+        "proxies": [
+            "ILX:0787750"
+        ]
     }
 ]
