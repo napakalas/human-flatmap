@@ -767,6 +767,10 @@
         "term": "UBERON:0003832",
         "name": "esophagus muscle"
     },
+    "digestive_111": {
+        "term": "UBERON:0004239",
+        "name": "small intestine smooth muscle"
+    },
     "skeleton_1": {
         "term": "UBERON:0001684",
         "name": "mandible"
