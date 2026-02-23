@@ -771,6 +771,22 @@
         "term": "UBERON:0004239",
         "name": "small intestine smooth muscle"
     },
+    "digestive_112": {
+        "term": "UBERON:0018111",
+        "name": "muscle layer of rectum"
+    },
+    "digestive_113": {
+        "term": "UBERON:0012490",
+        "name": "muscle layer of anal canal"
+    },
+    "digestive_114": {
+        "term": "UBERON:0015716",
+        "name": "epithelium of rectum"
+    },
+    "digestive_115": {
+        "term": "UBERON:0003354",
+        "name": "anal canal epithelium"
+    },
     "skeleton_1": {
         "term": "UBERON:0001684",
         "name": "mandible"
