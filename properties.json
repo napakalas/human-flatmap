@@ -4090,6 +4090,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_28-1": {
+            "models": "ILX:0795349",
+            "name": "submucosal nerve plexus ganglion of large intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "label_2-1": {
             "class": "label_2"
         },
