@@ -2713,6 +2713,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_35-1": {
+            "models": "ILX:0795343",
+            "name": "myenteric nerve plexus ganglion of esophagus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -4061,8 +4067,8 @@
             "class": "auto-hide"
         },
         "plexus_24-1": {
-            "models": "ILX:0795343",
-            "name": "myenteric nerve plexus ganglion of esophagus",
+            "models": "ILX:0793704",
+            "name": "Esophageal nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
