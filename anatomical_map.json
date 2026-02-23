@@ -759,6 +759,14 @@
         "term": "UBERON:0001278",
         "name": "epithelium of large intestine"
     },
+    "digestive_109": {
+        "term": "UBERON:0013473",
+        "name": "lower esophagus"
+    },
+    "digestive_110": {
+        "term": "UBERON:0003832",
+        "name": "esophagus muscle"
+    },
     "skeleton_1": {
         "term": "UBERON:0001684",
         "name": "mandible"

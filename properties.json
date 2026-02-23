@@ -3349,6 +3349,12 @@
         "digestive_108-1": {
             "class": "digestive_108"
         },
+        "digestive_109-1": {
+            "class": "digestive_109"
+        },
+        "digestive_110-1": {
+            "class": "digestive_110"
+        },
         "skeleton_1-1": {
             "class": "skeleton_1"
         },
@@ -4018,6 +4024,12 @@
         "plexus_23-1": {
             "models": "ILX:0793806",
             "name": "Prostatic nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_24-1": {
+            "models": "ILX:0795343",
+            "name": "myenteric nerve plexus ganglion of esophagus",
             "type": "ganglion",
             "class": "auto-hide"
         },
