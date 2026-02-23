@@ -1576,5 +1576,91 @@
                 []
             ]
         ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006457"
+            ]
+        ],
+        "name": "gray matter of spinal cord/T1 segment of thoracic spinal cord",
+        "aliases": [
+            [
+                "ILX:0797432",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006458"
+            ]
+        ],
+        "name": "gray matter of spinal cord/T2 segment of thoracic spinal cord",
+        "aliases": [
+            [
+                "ILX:0797433",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006459"
+            ]
+        ],
+        "name": "gray matter of spinal cord/T3 segment of thoracic spinal cord",
+        "aliases": [
+            [
+                "ILX:0797434",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006455"
+            ]
+        ],
+        "name": "gray matter of spinal cord/T7 segment of thoracic spinal cord",
+        "aliases": [
+            [
+                "ILX:0796498",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0018680",
+            []
+        ],
+        "name": "greater splanchnic nerve",
+        "aliases": [
+            [
+                "ILX:0796950",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0018681",
+            []
+        ],
+        "name": "lesser splanchnic nerve",
+        "aliases": [
+            [
+                "ILX:0796952",
+                []
+            ]
+        ]
     }
 ]
