@@ -4042,6 +4042,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_25-1": {
+            "models": "UBERON:8410063",
+            "name": "myenteric nerve plexus of small intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "label_2-1": {
             "class": "label_2"
         },
