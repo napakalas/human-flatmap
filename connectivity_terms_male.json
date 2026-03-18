@@ -14,19 +14,6 @@
     },
     {
         "id": [
-            "ILX:0738291",
-            []
-        ],
-        "name": "t1 - inferior cervical ganglion interganglionic segment of the sympathetic chain",
-        "aliases": [
-            [
-                "UBERON:0002441",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0016578",
             [
                 "UBERON:0006457"
@@ -179,22 +166,6 @@
                 []
             ],
             [
-                "ILX:0794732",
-                []
-            ],
-            [
-                "UBERON:0005734",
-                [
-                    "UBERON:0006637"
-                ]
-            ],
-            [
-                "UBERON:0005734",
-                [
-                    "UBERON:0001182"
-                ]
-            ],
-            [
                 "UBERON:0018676",
                 []
             ],
@@ -264,21 +235,6 @@
                 [
                     "UBERON:0001263"
                 ]
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0005364",
-            [
-                "UBERON:0005363"
-            ]
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "UBERON:0003535",
-                []
             ]
         ]
     },
@@ -364,32 +320,6 @@
     },
     {
         "id": [
-            "ILX:0786722",
-            []
-        ],
-        "name": "third thoracic ganglion",
-        "aliases": [
-            [
-                "ILX:0793618",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0786272",
-            []
-        ],
-        "name": "fourth thoracic ganglion",
-        "aliases": [
-            [
-                "ILX:0793619",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "ILX:0786141",
             []
         ],
@@ -455,47 +385,13 @@
     },
     {
         "id": [
-            "UBERON:0001736",
-            []
-        ],
-        "name": "submandibular gland",
-        "aliases": [
-            [
-                "ILX:0793737",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0001832",
-            []
-        ],
-        "name": "sublingual gland",
-        "aliases": [
-            [
-                "ILX:0793739",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0001723",
             []
         ],
         "name": "tongue",
         "aliases": [
             [
-                "UBERON:0003721",
-                []
-            ],
-            [
                 "UBERON:0003729",
-                []
-            ],
-            [
-                "ILX:0793738",
                 []
             ]
         ]
@@ -611,10 +507,6 @@
             [
                 "UBERON:0002366",
                 []
-            ],
-            [
-                "UBERON:0011183",
-                []
             ]
         ]
     },
@@ -693,10 +585,6 @@
             [
                 "ILX:0793816",
                 []
-            ],
-            [
-                "UBERON:0007715",
-                []
             ]
         ]
     },
@@ -709,19 +597,6 @@
         "aliases": [
             [
                 "ILX:0793815",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0005453",
-            []
-        ],
-        "name": "inferior mesenteric ganglion",
-        "aliases": [
-            [
-                "UBERON:0035770",
                 []
             ]
         ]
@@ -1097,6 +972,10 @@
             [
                 "ILX:0794853",
                 []
+            ],
+            [
+                "UBERON:0003535",
+                []
             ]
         ]
     },
@@ -1388,66 +1267,6 @@
         "aliases": [
             [
                 "ILX:0795344",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002315",
-            [
-                "UBERON:0006457"
-            ]
-        ],
-        "name": "gray matter of spinal cord/T1 segment of thoracic spinal cord",
-        "aliases": [
-            [
-                "ILX:0797432",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002315",
-            [
-                "UBERON:0006458"
-            ]
-        ],
-        "name": "gray matter of spinal cord/T2 segment of thoracic spinal cord",
-        "aliases": [
-            [
-                "ILX:0797433",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002315",
-            [
-                "UBERON:0006459"
-            ]
-        ],
-        "name": "gray matter of spinal cord/T3 segment of thoracic spinal cord",
-        "aliases": [
-            [
-                "ILX:0797434",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002315",
-            [
-                "UBERON:0006455"
-            ]
-        ],
-        "name": "gray matter of spinal cord/T7 segment of thoracic spinal cord",
-        "aliases": [
-            [
-                "ILX:0796498",
                 []
             ]
         ]

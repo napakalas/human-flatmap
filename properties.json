@@ -3148,6 +3148,12 @@
         "digestive_33-1": {
             "class": "digestive_33"
         },
+        "digestive_36-1": {
+            "class": "digestive_36"
+        },
+        "digestive_38-1": {
+            "class": "digestive_38"
+        },
         "digestive_44-1": {
             "class": "digestive_44"
         },
@@ -3156,6 +3162,9 @@
         },
         "digestive_46-1": {
             "class": "digestive_46"
+        },
+        "digestive_47-1": {
+            "class": "digestive_47"
         },
         "digestive_48-1": {
             "class": "digestive_48"
@@ -3406,6 +3415,12 @@
         "digestive_115-1": {
             "class": "digestive_115"
         },
+        "digestive_116-1": {
+            "class": "digestive_116"
+        },
+        "digestive_117-1": {
+            "class": "digestive_117"
+        },
         "skeleton_1-1": {
             "class": "skeleton_1"
         },
@@ -3553,6 +3568,12 @@
         "reproductive_17-1": {
             "class": "reproductive_17"
         },
+        "reproductive_18-1": {
+            "class": "reproductive_18"
+        },
+        "reproductive_18-2": {
+            "class": "reproductive_18"
+        },
         "reproductive_19-1": {
             "class": "reproductive_19"
         },
@@ -3621,6 +3642,27 @@
         },
         "reproductive_34-2": {
             "class": "reproductive_34"
+        },
+        "reproductive_35-1": {
+            "class": "reproductive_35"
+        },
+        "reproductive_36-1": {
+            "class": "reproductive_36"
+        },
+        "reproductive_37-1": {
+            "class": "reproductive_37"
+        },
+        "reproductive_38-1": {
+            "class": "reproductive_38"
+        },
+        "reproductive_39-1": {
+            "class": "reproductive_39"
+        },
+        "reproductive_40-1": {
+            "class": "reproductive_40"
+        },
+        "reproductive_41-1": {
+            "class": "reproductive_41"
         },
         "respiratory_10-1": {
             "class": "respiratory_10"
@@ -3766,6 +3808,18 @@
         "spinal_31-19": {
             "class": "spinal_31"
         },
+        "S32_T1-Left": {
+            "models": "ILX:0797432",
+            "name": "Dorsal grey horn of left T1"
+        },
+        "S32_T2-Left": {
+            "models": "ILX:0797433",
+            "name": "Dorsal grey horn of left T2"
+        },
+        "S32_T3-Left": {
+            "models": "ILX:0797434",
+            "name": "Dorsal grey horn of left T3"
+        },
         "S32_T6": {
             "class": "spinal_32"
         },
@@ -3779,6 +3833,10 @@
         "S32_T7-Right": {
             "models": "ILX:0795041",
             "name": "Dorsal grey horn of right T7"
+        },
+        "S32_T7-Left": {
+            "models": "ILX:0796498",
+            "name": "Dorsal grey horn of left T7"
         },
         "S32_T8": {
             "class": "spinal_32"
@@ -4093,6 +4151,12 @@
         "plexus_29-1": {
             "models": "ILX:0797430",
             "name": "nerve plexus along the left precaval vein",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_30-1": {
+            "models": "ILX:0794732",
+            "name": "intermesenteric plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -4539,6 +4603,14 @@
         "penile_cavernous_c": {
             "type": "nerve",
             "models": "ILX:0793807"
+        },
+        "lingual_c": {
+            "type": "nerve",
+            "models": "UBERON:0003721"
+        },
+        "clitoral_cavernous_c": {
+            "type": "nerve",
+            "models": "ILX:0793809"
         },
         "n_84_c": {
             "type": "nerve"

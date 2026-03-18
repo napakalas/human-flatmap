@@ -842,5 +842,75 @@
         "proxies": [
             "ILX:0785106"
         ]
+    },
+    {
+        "feature": "UBERON:0002441",
+        "name": "cervicothoracic ganglion",
+        "proxies": [
+            "ILX:0794890"
+        ]
+    },
+    {
+        "feature": "ILX:0793617",
+        "name": "T2 sympathetic chain",
+        "proxies": [
+            "ILX:0786012"
+        ]
+    },
+    {
+        "feature": "ILX:0793618",
+        "name": "T3 sympathetic chain",
+        "proxies": [
+            "ILX:0790407"
+        ]
+    },
+    {
+        "feature": "ILX:0793619",
+        "name": "T4 sympathetic chain",
+        "proxies": [
+            "ILX:0785536"
+        ]
+    },
+    {
+        "feature": "ILX:0793335",
+        "name": "T5 sympathetic chain",
+        "proxies": [
+            "ILX:0786912"
+        ]
+    },
+    {
+        "feature": "ILX:0793336",
+        "name": "T6 sympathetic chain",
+        "proxies": [
+            "ILX:0791060"
+        ]
+    },
+    {
+        "feature": "UBERON:0035770",
+        "name": "inferior mesenteric nerve plexus",
+        "proxies": [
+            "UBERON:0005453"
+        ]
+    },
+    {
+        "feature": "UBERON:0007715",
+        "name": "thoracic subsegment of spinal cord",
+        "proxies": [
+            "UBERON:0006468"
+        ]
+    },
+    {
+        "feature": "UBERON:0007716",
+        "name": "lumbar subsegment of spinal cord",
+        "proxies": [
+            "UBERON:0006448"
+        ]
+    },
+    {
+        "feature": "UBERON:0011183",
+        "name": "corpus spongiosum of penis",
+        "proxies": [
+            "UBERON:0001299"
+        ]
     }
 ]
