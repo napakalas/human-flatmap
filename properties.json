@@ -2635,6 +2635,12 @@
         "trigeminal_nerve_afferent_cn_v_and_ganglion": {
             "class": "ganglion_23"
         },
+        "ganglion_24-1": {
+            "models": "UBERON:0002059",
+            "name": "Submandibular ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "ganglion_25-1": {
             "models": "ILX:0794910",
             "name": "Ovarian ganglion",
@@ -3321,9 +3327,6 @@
         },
         "digestive_85-1": {
             "class": "digestive_85"
-        },
-        "digestive_86-1": {
-            "class": "digestive_86"
         },
         "digestive_87-1": {
             "class": "digestive_87"

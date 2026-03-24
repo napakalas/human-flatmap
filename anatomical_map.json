@@ -671,10 +671,6 @@
         "term": "UBERON:0003216",
         "name": "hard palate"
     },
-    "digestive_86": {
-        "term": "UBERON:0002059",
-        "name": "Submandibular ganglion"
-    },
     "digestive_85": {
         "term": "UBERON:0000006",
         "name": "Islet of langerhans"
