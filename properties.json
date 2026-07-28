@@ -2737,6 +2737,30 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_39-1": {
+            "models": "UBERON:0002262",
+            "name": "celiac ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_40-1": {
+            "models": "UBERON:0005479",
+            "name": "superior mesenteric ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_41-1": {
+            "models": "ILX:0794730",
+            "name": "aorticorenal ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_42-1": {
+            "models": "ILX:0794764",
+            "name": "suprarenal ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -2900,6 +2924,11 @@
         "oculomotor_c": {
             "models": "UBERON:0001643",
             "name": "Oculomotor nerve",
+            "type": "nerve"
+        },
+        "thoracic_splanchnic_nerve_c": {
+            "models": "UBERON:0018679",
+            "name": "thoracic splanchnic nerve",
             "type": "nerve"
         },
         "red_nucleus": {
@@ -3144,6 +3173,9 @@
         },
         "digestive_26-1": {
             "class": "digestive_26"
+        },
+        "digestive_27-1": {
+            "class": "digestive_27"
         },
         "digestive_31-1": {
             "class": "digestive_31"
@@ -3424,6 +3456,10 @@
         "digestive_117-1": {
             "class": "digestive_117"
         },
+        "digestive_118-1": {
+            "models": "UBERON:0009959",
+            "name": "oropharynx lumen"
+        },
         "skeleton_1-1": {
             "class": "skeleton_1"
         },
@@ -3675,6 +3711,9 @@
         },
         "respiratory_12-1": {
             "class": "respiratory_12"
+        },
+        "respiratory_13-1": {
+            "class": "respiratory_13"
         },
         "respiratory_16-1": {
             "class": "respiratory_16"
@@ -4163,6 +4202,36 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_31-1": {
+            "models": "ILX:0793821",
+            "name": "prevertebral sympathetic ganglion in abdominal aortic plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_32-1": {
+            "models": "UBERON:0035772",
+            "name": "aortic plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_33-1": {
+            "models": "UBERON:0002010",
+            "name": "celiac nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_34-1": {
+            "models": "UBERON:0005488",
+            "name": "superior mesenteric plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_35-1": {
+            "models": "UBERON:0018676",
+            "name": "renal nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "label_8-1": {
             "class": "label_8"
         },
@@ -4246,6 +4315,10 @@
         },
         "label_35-1": {
             "class": "label_35"
+        },
+        "urethral_sphincter": {
+            "models": "UBERON:0004917",
+            "name": "urethral sphincter"
         },
         "vagus_1": {
             "type": "nerve",
@@ -4676,6 +4749,14 @@
         },
         "ardell_6_c": {
             "type": "nerve"
+        },
+        "ansa_subclavia_c": {
+            "type": "nerve",
+            "models": "ILX:0739241"
+        },
+        "mesenteric_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0793714"
         }
     },
     "networks": [
