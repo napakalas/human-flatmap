@@ -2761,6 +2761,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_43-1": {
+            "models": "ILX:0793821",
+            "name": "prevertebral sympathetic ganglion in abdominal aortic plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -4199,12 +4205,6 @@
         "plexus_30-1": {
             "models": "ILX:0794732",
             "name": "intermesenteric plexus",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
-        "plexus_31-1": {
-            "models": "ILX:0793821",
-            "name": "prevertebral sympathetic ganglion in abdominal aortic plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
