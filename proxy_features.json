@@ -421,14 +421,6 @@
         ]
     },
     {
-        "feature": "UBERON:0001184",
-        "name": "renal artery",
-        "proxies": [
-            "UBERON:0001185",
-            "UBERON:0001186"
-        ]
-    },
-    {
         "feature": "UBERON:0000992",
         "name": "ovary",
         "proxies": [
