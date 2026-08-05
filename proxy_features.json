@@ -119,6 +119,27 @@
         ]
     },
     {
+        "feature": "ILX:0785632",
+        "name": "posterior root of first thoracic nerve",
+        "proxies": [
+            "ILX:0790800"
+        ]
+    },
+    {
+        "feature": "ILX:0791802",
+        "name": "posterior root of second thoracic nerve",
+        "proxies": [
+            "ILX:0791275"
+        ]
+    },
+    {
+        "feature": "ILX:0789246",
+        "name": "posterior root of third thoracic nerve",
+        "proxies": [
+            "ILX:0789845"
+        ]
+    },
+    {
         "feature": "ILX:0784605",
         "name": "posterior root of seventh thoracic nerve",
         "proxies": [
@@ -826,6 +847,13 @@
         "name": "fifth thoracic dorsal root ganglion",
         "proxies": [
             "ILX:0788772"
+        ]
+    },
+    {
+        "feature": "UBERON:0002849",
+        "name": "sixth thoracic dorsal root ganglion",
+        "proxies": [
+            "ILX:0791527"
         ]
     },
     {
