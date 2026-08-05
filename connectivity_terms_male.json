@@ -1104,5 +1104,24 @@
                 []
             ]
         ]
+    },
+    {
+        "id": [
+            "UBERON:0006470",
+            []
+        ],
+        "name": "eight cervical spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0797431",
+                []
+            ],
+            [
+                "UBERON:0016578",
+                [
+                    "UBERON:0006470"
+                ]
+            ]
+        ]
     }
 ]

@@ -1084,6 +1084,11 @@
             "models": "ILX:0786212",
             "name": "Anterior root of right seventh cervical nerve"
         },
+        "anterior_root_of_C8_c": {
+            "models": "ILX:0786163",
+            "name": "Anterior root of eighth cervical nerve",
+            "type": "nerve"
+        },
         "S43_T1-Left": {
             "models": "ILX:0785339",
             "name": "Anterior root of left first thoracic nerve"
@@ -1547,6 +1552,10 @@
         "S45_C7-Right": {
             "models": "ILX:0789091",
             "name": "right seventh cervical dorsal root ganglion"
+        },
+        "left_eighth_cervical_spinal_ganglion_g": {
+            "models": "ILX:0785251",
+            "name": "Left eighth cervical spinal ganglion"
         },
         "S45_T1-Left": {
             "models": "ILX:0784660",
@@ -4029,8 +4038,16 @@
         "spinal_7-1": {
             "class": "spinal_7"
         },
+        "spinal_8-1": {
+            "models": "UBERON:0006470",
+            "name": "C8 segment of cervical spinal cord"
+        },
         "spinal_9-1": {
             "class": "spinal_9"
+        },
+        "eighth_cervical_dorsal_root_g": {
+            "models": "UBERON:0002844",
+            "name": "eighth cervical dorsal root ganglion"
         },
         "spinal_69-1": {
             "class": "spinal_69"
