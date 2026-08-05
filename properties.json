@@ -4406,11 +4406,11 @@
         },
         "vagus_2": {
             "type": "nerve",
-            "models": "ILX:0786624"
+            "models": "ILX:0794142"
         },
         "vagus_3": {
             "type": "nerve",
-            "models": "ILX:0791151"
+            "models": "ILX:0794141"
         },
         "vagus_4": {
             "type": "nerve",
@@ -4837,6 +4837,34 @@
         "mesenteric_nerve_c": {
             "type": "nerve",
             "models": "ILX:0793714"
+        },
+        "esophageal_vagus_trunk_c": {
+            "type": "nerve",
+            "models": "ILX:0794853"
+        },
+        "abdominal_branch_of_vagus_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0794473"
+        },
+        "posterior_abdominal_vagal_trunk_c": {
+            "type": "nerve",
+            "models": "ILX:0793827"
+        },
+        "anterior_abdominal_vagal_trunk_c": {
+            "type": "nerve",
+            "models": "ILX:0793826"
+        },
+        "posterior_hepatic_branch_of_vagus_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0794506"
+        },
+        "celiac_branch_of_posterior_vagal_trunk_c": {
+            "type": "nerve",
+            "models": "ILX:0789580"
+        },
+        "hepatic_branch_of_left_vagus_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0790553"
         }
     },
     "networks": [
