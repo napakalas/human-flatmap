@@ -1535,6 +1535,14 @@
         "term": "ILX:0793626",
         "name": "Ventrolateral periaqueductal gray"
     },
+    "brain_59": {
+        "term": "UBERON:0014761",
+        "name": "spinal trigeminal tract"
+    },
+    "brain_60": {
+        "term": "UBERON:0007703",
+        "name": "spinothalamic tract"
+    },
     "bolser_4": {
         "term": "ILX:0738374",
         "name": "External branch of superior laryngeal nerve"
