@@ -3505,7 +3505,7 @@
         },
         "digestive_123-1": {
             "models": "ILX:0795016",
-            "name": "liver perisinusoidal space"
+            "name": "peribiliary gland"
         },
         "skeleton_1-1": {
             "class": "skeleton_1"
@@ -4293,6 +4293,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_26-1": {
+            "models": "ILX:0795340",
+            "name": "celiac periarterial nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "plexus_29-1": {
             "models": "ILX:0797430",
             "name": "nerve plexus along the left precaval vein",
@@ -4882,6 +4888,10 @@
         "hepatic_branch_of_left_vagus_nerve_c": {
             "type": "nerve",
             "models": "ILX:0790553"
+        },
+        "thoracic_sympathetic_nerve_trunk_c": {
+            "type": "nerve",
+            "models": "UBERON:0004863"
         }
     },
     "networks": [
