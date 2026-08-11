@@ -1183,5 +1183,22 @@
                 ]
             ]
         ]
+    },
+    {
+        "id": [
+            "UBERON:0011380",
+            []
+        ],
+        "name": "female external urether",
+        "aliases": [
+            [
+                "ILX:0793141",
+                []
+            ],
+            [
+                "UBERON:0004919",
+                []
+            ]
+        ]
     }
 ]

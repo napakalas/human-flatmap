@@ -48,16 +48,16 @@
         "name": "urethra"
     },
     "urinary_15": {
-        "term": "ILX:0738416",
-        "name": "rhabdosphincter of female"
+        "term": "UBERON:0011380",
+        "name": "female external urethral sphincter"
     },
     "urinary_16": {
         "term": "UBERON:0002384",
         "name": "connective tissue"
     },
     "urinary_17": {
-        "term": "ILX:0738408",
-        "name": "Rhabdosphincter of male"
+        "term": "UBERON:0011379",
+        "name": "male external urether"
     },
     "urinary_18": {
         "term": "UBERON:0004538",

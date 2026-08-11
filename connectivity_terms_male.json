@@ -1123,5 +1123,22 @@
                 ]
             ]
         ]
+    },
+    {
+        "id": [
+            "UBERON:0011379",
+            []
+        ],
+        "name": "male external urether",
+        "aliases": [
+            [
+                "ILX:0793141",
+                []
+            ],
+            [
+                "UBERON:0004919",
+                []
+            ]
+        ]
     }
 ]
