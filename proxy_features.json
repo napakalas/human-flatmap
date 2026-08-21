@@ -946,5 +946,19 @@
         "proxies": [
             "UBERON:0002394"
         ]
+    },
+    {
+        "feature": "ILX:0789655",
+        "name": "S2 sympathetic chain ganglion",
+        "proxies": [
+            "ILX:0792153"
+        ]
+    },
+    {
+        "feature": "ILX:0790394",
+        "name": "S3 sympathetic chain ganglion",
+        "proxies": [
+            "ILX:0787496"
+        ]
     }
 ]

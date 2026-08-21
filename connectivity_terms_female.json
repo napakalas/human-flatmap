@@ -1,23 +1,6 @@
 [
     {
         "id": [
-            "UBERON:0007240",
-            [
-                "UBERON:0000947"
-            ]
-        ],
-        "name": "tunica adventitia of artery/aorta",
-        "aliases": [
-            [
-                "UBERON:0007240",
-                [
-                    "UBERON:0001496"
-                ]
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0016578",
             [
                 "UBERON:0006457"
@@ -674,23 +657,6 @@
     },
     {
         "id": [
-            "ILX:0793644",
-            [
-                "UBERON:0001158"
-            ]
-        ],
-        "name": "Arteriole in Myenteric Nerve Plexus of Descending Colon/descending colon",
-        "aliases": [
-            [
-                "ILX:0793657",
-                [
-                    "UBERON:0001158"
-                ]
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0001964",
             []
         ],
@@ -1193,7 +1159,9 @@
         "aliases": [
             [
                 "ILX:0793141",
-                []
+                [
+                    "UBERON:0000057"
+                ]
             ],
             [
                 "UBERON:0004919",

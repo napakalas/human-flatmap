@@ -2512,6 +2512,33 @@
         "S51_T12": {
             "class": "spinal_51"
         },
+        "S52_S1": {
+            "class": "spinal_52"
+        },
+        "S52_S2": {
+            "class": "spinal_52"
+        },
+        "S52_S3": {
+            "class": "spinal_52"
+        },
+        "S52_S4": {
+            "class": "spinal_52"
+        },
+        "S52_S5": {
+            "class": "spinal_52"
+        },
+        "S52_L1": {
+            "class": "spinal_52"
+        },
+        "S52_L2": {
+            "class": "spinal_52"
+        },
+        "S52_T11": {
+            "class": "spinal_52"
+        },
+        "S52_T12": {
+            "class": "spinal_52"
+        },
         "ganglion_1-1": {
             "models": "UBERON:0005364",
             "name": "superior vagus X ganglion",
@@ -4898,6 +4925,10 @@
         "thoracic_sympathetic_nerve_trunk_c": {
             "type": "nerve",
             "models": "UBERON:0004863"
+        },
+        "posterior_root_of_left_eighth_cervical_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0792093"
         }
     },
     "networks": [
