@@ -2845,6 +2845,9 @@
         "brain_1-2": {
             "class": "brain_1"
         },
+        "brain_8-1": {
+            "class": "brain_8"
+        },
         "brain_11-1": {
             "class": "brain_11"
         },
@@ -2898,6 +2901,9 @@
         "brain_27-2": {
             "class": "brain_27",
             "unrouted": true
+        },
+        "brain_29-1": {
+            "class": "brain_29"
         },
         "brain_3-1": {
             "class": "brain_3"
@@ -3194,6 +3200,9 @@
         },
         "digestive_10-1": {
             "class": "digestive_10"
+        },
+        "digestive_11-1": {
+            "class": "digestive_11"
         },
         "digestive_12-1": {
             "class": "digestive_12"
@@ -7018,6 +7027,7 @@
                 },
                 {
                     "id": "bolser_4",
+                    "models": "ILX:0738374",
                     "connects": [
                         "point_21",
                         "respiratory_5-1"
