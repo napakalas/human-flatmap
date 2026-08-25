@@ -1,45 +1,12 @@
 {
     "classes": {
-        "ganglion_6": {
-            "label": "atrial intracardiac ganglion"
-        },
-        "ganglion_7": {
-            "label": "ventricular intracardiac ganglion"
-        },
-        "label_12": {
-            "label": "mucosa of arytenoid cartilage"
-        },
-        "label_13": {
-            "label": "vocal cords"
-        },
-        "plexus_6": {
-            "label": "gastric nerve plexus"
-        },
         "body_1": {
-            "tooltip": false
-        },
-        "body_2": {
-            "tooltip": false
-        },
-        "body_3": {
-            "tooltip": false
-        },
-        "body_4": {
-            "tooltip": false
-        },
-        "body_5": {
             "tooltip": false
         },
         "body_6": {
             "tooltip": false
         },
         "brain_35": {
-            "tooltip": false
-        },
-        "respiratory_6": {
-            "tooltip": false
-        },
-        "respiratory_7": {
             "tooltip": false
         }
     },
@@ -2573,12 +2540,6 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
-        "ganglion_8-1": {
-            "models": "UBERON:0001808",
-            "name": "parasympathetic ganglion",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
         "ganglion_9-Left": {
             "models": "ILX:0786820",
             "name": "left middle cervical ganglion",
@@ -3099,32 +3060,17 @@
         "cardio_16-1": {
             "class": "cardio_16"
         },
-        "cardio_18-1": {
-            "class": "cardio_18"
-        },
         "cardio_19-1": {
             "class": "cardio_19"
         },
         "cardio_2-1": {
             "class": "cardio_2"
         },
-        "cardio_20-1": {
-            "class": "cardio_20"
-        },
         "cardio_21-1": {
             "class": "cardio_21"
         },
-        "cardio_22-1": {
-            "class": "cardio_22"
-        },
-        "cardio_23-1": {
-            "class": "cardio_23"
-        },
         "cardio_24-1": {
             "class": "cardio_24"
-        },
-        "cardio_25-1": {
-            "class": "cardio_25"
         },
         "cardio_26-1": {
             "class": "cardio_26"
@@ -3158,15 +3104,6 @@
         },
         "cardio_3-1": {
             "class": "cardio_3"
-        },
-        "cardio_31-1": {
-            "class": "cardio_31"
-        },
-        "cardio_33-1": {
-            "class": "cardio_33"
-        },
-        "cardio_34-1": {
-            "class": "cardio_34"
         },
         "cardio_35-1": {
             "class": "cardio_35"
@@ -3545,10 +3482,6 @@
             "models": "UBERON:0006729",
             "name": "liver perisinusoidal space"
         },
-        "digestive_123-1": {
-            "models": "ILX:0795016",
-            "name": "peribiliary gland"
-        },
         "skeleton_1-1": {
             "class": "skeleton_1"
         },
@@ -3720,12 +3653,6 @@
         "reproductive_24-1": {
             "class": "reproductive_24"
         },
-        "reproductive_24-2": {
-            "class": "reproductive_24"
-        },
-        "reproductive_24-3": {
-            "class": "reproductive_24"
-        },
         "reproductive_25-1": {
             "class": "reproductive_25"
         },
@@ -3849,9 +3776,6 @@
         "respiratory_29-1": {
             "class": "respiratory_29"
         },
-        "respiratory_30-1": {
-            "class": "respiratory_30"
-        },
         "respiratory_4-1": {
             "class": "respiratory_4"
         },
@@ -3957,9 +3881,6 @@
         "S32_T6-Right": {
             "models": "ILX:0795040",
             "name": "Dorsal grey horn of right T6"
-        },
-        "S32_T7": {
-            "class": "spinal_32"
         },
         "S32_T7-Right": {
             "models": "ILX:0795041",
@@ -4094,9 +4015,6 @@
         "spinal_69-1": {
             "class": "spinal_69"
         },
-        "urinary_10-1": {
-            "class": "urinary_10"
-        },
         "urinary_8-2": {
             "class": "urinary_8"
         },
@@ -4154,12 +4072,10 @@
             "class": "urinary_19"
         },
         "urinary_20-1": {
-            "models": "UBERON:0001184",
-            "name": "renal artery"
+            "class": "urinary_20"
         },
         "urinary_20-2": {
-            "models": "UBERON:0001184",
-            "name": "renal artery"
+            "class": "urinary_20"
         },
         "urinary_21-1": {
             "class": "urinary_21"
@@ -4389,12 +4305,6 @@
         "label_11-1": {
             "class": "label_11"
         },
-        "label_12-1": {
-            "class": "label_12"
-        },
-        "label_13-1": {
-            "class": "label_13"
-        },
         "label_14-1": {
             "class": "label_14"
         },
@@ -4421,9 +4331,6 @@
         },
         "label_22-1": {
             "class": "label_22"
-        },
-        "label_23-1": {
-            "class": "label_23"
         },
         "label_24-1": {
             "class": "label_24"
@@ -4665,10 +4572,6 @@
             "type": "nerve",
             "models": "ILX:0790681"
         },
-        "n_57_c": {
-            "type": "nerve",
-            "models": "ILX:0791632"
-        },
         "vagus_11": {
             "type": "nerve",
             "models": "ILX:0793828"
@@ -4834,9 +4737,6 @@
             "models": "ILX:0793809"
         },
         "n_84_c": {
-            "type": "nerve"
-        },
-        "n_76_c": {
             "type": "nerve"
         },
         "ardell_5_c": {
@@ -5342,14 +5242,6 @@
                     "connects": [
                         "point_21",
                         "label_11-1"
-                    ]
-                },
-                {
-                    "id": "n_27",
-                    "models": "ILX:0785951",
-                    "connects": [
-                        "point_21",
-                        "label_12-1"
                     ]
                 },
                 {
@@ -7084,9 +6976,6 @@
                     "connects": [
                         "ganglion_12-1",
                         "point_40"
-                    ],
-                    "contained-in": [
-                        "bolser_22-1"
                     ]
                 },
                 {
@@ -7243,23 +7132,6 @@
                     "connects": [
                         "pet_branching_point-1",
                         "vidian_branching_point"
-                    ]
-                },
-                {
-                    "id": "ophthalmic",
-                    "models": "UBERON:0000348",
-                    "connects": [
-                        "ganglion_23-1",
-                        "ophthalmic_branching_point"
-                    ]
-                },
-                {
-                    "id": "lacrimal",
-                    "models": "UBERON:0011096",
-                    "connects": [
-                        "ophthalmic_branching_point",
-                        "lacrimal_branching_point",
-                        "eye_1-1"
                     ]
                 },
                 {
